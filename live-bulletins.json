@@ -1,0 +1,19 @@
+{
+  "bulletins": [
+    {
+      "time": "14:50",
+      "title": "Scrutineering Update",
+      "content": "Noise test is now at the entrance of Bay 2. <a href='https://google.com/maps'>View Location Map</a>"
+    },
+    {
+      "time": "14:45",
+      "title": "Document Link",
+      "content": "Final Instructions V1.4 are now available for download <a href='docs/regs.pdf'>here</a>."
+    },
+    {
+      "time": "08:00",
+      "title": "Welcome",
+      "content": "Please ensure all crews have signed on digitally before MTC 0."
+    }
+  ]
+}
