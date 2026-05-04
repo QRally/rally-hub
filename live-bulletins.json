@@ -1,6 +1,11 @@
 {
   "bulletins": [
     {
+      "time": "20:19",
+      "title": "Important",
+      "content": "Rodge has stopped for a cup of tea</a>"
+    },
+    {
       "time": "15:19",
       "title": "Important",
       "content": "In case of emergency, contact Clerk of the Course: <a href='tel:0123456789'>01234 56789</a>"
