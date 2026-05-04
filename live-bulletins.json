@@ -1,9 +1,9 @@
 {
   "bulletins": [
     {
-      "time": "20:50",
+      "time": "23:43",
       "title": "Update",
-      "content": "Rodge is back on stage</a>"
+      "content": "Rally Notice Board Now Live.</a>"
     },
     {
       "time": "15:19",
@@ -23,7 +23,7 @@
     {
       "time": "19:50",
       "title": "Stage Cancelled",
-      "content": "Stage 2 Cancelled follow diversion map</a>."
+      "content": "Stage 2 Cancelled follow diversion map. <a href='https://maps.google.com'>View Location Map</a>."
     },
     {
       "time": "08:00",
