@@ -1,7 +1,9 @@
-   {
-  "time": "23:43",
-  "title": "Update",
-  "content": "Route References now available. <a href='https://qrally.github.io/plotter/'>Open Route Plotter</a>"
+{
+  "bulletins": [
+    {
+      "time": "15:05",
+      "title": "Update",
+      "content": "Route References now available. <a href='https://qrally.github.io/plotter/'>Open Route Plotter</a>"
     },
     {
       "time": "15:19",
