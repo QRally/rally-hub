@@ -1,14 +1,14 @@
 {
   "bulletins": [
-    {
-      "time": "15:05",
-      "title": "Update",
-      "content": "Route References now available, Single tap to enlarge, Double tap to shade. <a href='https://qrally.github.io/plotter/'>Open Route Plotter</a>"
-    },
-    {
+        {
       "time": "15:19",
       "title": "Important",
       "content": "In case of emergency, contact Clerk of the Course: <a href='tel:0123456789'>01234 56789</a>"
+    },
+    {
+      "time": "15:05",
+      "title": "Live Results",
+      "content": "Live  Results now available. <a href='https://qrally.github.io'>Open Results</a>"
     },
     {
       "time": "14:50",
